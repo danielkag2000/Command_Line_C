@@ -1,9 +1,4 @@
-/************************
-* Student name: Daniel Kaganovich
-* Student: 211939293
-* Course Exercise Group: 08
-* Exercise name: ex2
-************************/ 
+
 
 #include <string.h>
 #include <sys/types.h>
